@@ -1,12 +1,12 @@
 # vue-ajax-wikipedia-viewer
 
 > 利用vue2.0实现简单页面<br>
-> A wikipedia viewer built with vue2.x ,vue-router,vue-cli(webpack-simple) and ajax(jsonp) <br>
+> A wikipedia viewer built with vue2.x, vue-router, vue-cli (webpack-simple) and ajax (jsonp). <br>
 >  -Yuo can click a button to see a random Wikipedia entry.<br>
 >  -Yuo can search Wikipedia entries in a search box and see the results.<br>
 
-Grade that this demo has been merged into the project :<a href="https://github.com/vuejs/awesome-vue">awesome-vue</a>:yum:<br>
-And also here is another vue demo <a href="https://github.com/CaiYiLiang/simply-calculator-vuejs">simply-calculator-vuejs</a> ,which is merged into the project :<a href="https://github.com/vuejs/awesome-vue">awesome-vue</a>:yum:
+Grade that this demo has been merged into the project: <a href="https://github.com/vuejs/awesome-vue">awesome-vue</a>:yum:<br>
+And also here is another vue demo <a href="https://github.com/CaiYiLiang/simply-calculator-vuejs">simply-calculator-vuejs</a>, which is merged into the project: <a href="https://github.com/vuejs/awesome-vue">awesome-vue</a>:yum:
 
 
 # demo
@@ -29,7 +29,7 @@ npm run build
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-#todo item
+# todo item
 - optimize the demo with vue-router 
 - optimize the demo with vue-transition effect  
 <br>
